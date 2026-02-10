@@ -1,0 +1,7 @@
+{
+  "name": "SonicFlow AI",
+  "description": "A professional-grade AI audio enhancer and editor featuring real-time waveform visualization, intelligent mastering, and deep audio analysis using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
